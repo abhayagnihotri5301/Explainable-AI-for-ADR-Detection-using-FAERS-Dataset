@@ -1,7 +1,6 @@
+Predicting Adverse Drug Reactions with Explainable AI
 
-# Beginner-Friendly Explanation: Predicting Adverse Drug Reactions with Explainable AI
-
-This document explains the project in simple terms for professors, non-technical readers, or those new to pharmacovigilance and data science.
+This document explains the project in simple terms 
 
 ---
 
